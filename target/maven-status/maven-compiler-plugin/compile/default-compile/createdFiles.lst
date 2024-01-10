@@ -1,0 +1,4 @@
+io/project/KitapChooseBot/KitapChooseBotApplication.class
+io/project/KitapChooseBot/service/TelegramBot.class
+io/project/KitapChooseBot/config/BotInitializer.class
+io/project/KitapChooseBot/config/BotConfig.class
